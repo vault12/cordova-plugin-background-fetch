@@ -1,4 +1,4 @@
-declare module "cordova-plugin-background-fetch" {
+declare module "@vault12/plugin-background-fetch" {
 	interface BackgroundFetchConfig {
 		/**
 		* The minimum interval in minutes to execute background fetch events.  Defaults to 15 minutes.  Minimum is 15 minutes.
